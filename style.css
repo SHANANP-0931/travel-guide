@@ -1,0 +1,98 @@
+#back-img {
+  background-image: url(https://www.hlimg.com/images/stories/738X538/o-solo-travel-woman-india-facebook_1505978580m.jpg);
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+span{
+    color: orange;
+    padding-left: 5px;
+}
+#main-head{
+    margin-left: 60%;
+    margin-top: 10%;
+    font-size: 50px;
+    font-weight: bolder;
+    color: rgb(233, 137, 137);
+    line-height: 70px;
+}
+.span1{
+    font-family: "Playwrite CO", cursive;
+    color: black;
+}
+#honey-packages{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: centre;
+    padding-top: 2%;
+}
+#honey-head{
+margin-left: 30%;
+
+padding-top: 2%;
+}
+.btn-more{
+    margin-left: 45%;
+    margin-top: 5px;
+}
+#north-grid{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 5px;
+    
+
+}
+.images-north{
+
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: center;
+    
+    
+   margin-top: 5px;
+}
+.images-1{
+    width: 300px;
+    height: 350px;
+    border-radius: 10px;
+    border: solid 1px;
+}
+.dec-head{
+    color: orange;
+    font-family: "Playwrite CO", cursive;
+    font-size: 20px;
+    padding-top: -20px;
+}
+#premium-div{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 5px;
+    padding: 50px;
+    
+}
+.premium{
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: center;
+    width: 130px;
+    height: 150px;
+    border: solid 1px;
+    border-radius: 20px;
+}
+.premium-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    
+}
+footer{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(1, 1, 22);
+}
+.footer-img{
+    width: 200px;
+    margin-right: 30%;
+}
